@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a5a5a5;
+}
+
+.header{
+    color: white;
+    font-size: 25px;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.container {
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+hr{
+    border: 1px solid rgb(0, 0, 0);
+}
+.gallery {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.image {
+    text-align: center;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative; /* Required for positioning the description */
+    transition: transform 0.3s ease; /* Add smooth scaling transition */
+}
+
+.image img {
+    max-width: 100%;
+}
+
+.image:hover {
+    transform: scale(1.1); /* Scale the image on hover */
+}
