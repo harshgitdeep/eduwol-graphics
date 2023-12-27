@@ -1,5 +1,7 @@
 # EduWol Graphics Showcase
 
+<a href="https://eduwol.com/about/"> <img src="https://www.eduwol.com/assets/images/logo1.png" alt="Social Media Graphic" width=300px style="margin-bottom: 20px;" /> <a/>
+
 Welcome to the Graphics Work Showcase of my tenure as the Graphics Team Head at EduWol Chitkara.
 
 ## About EduWol Chitkara
@@ -26,7 +28,7 @@ EduWol is an innovative platform at Chitkara University that focuses on fosterin
 
 ## Conclusion
 
-These projects represent a glimpse of the creative work done by the Graphics Team under my leadership. Each design aimed to communicate effectively and enhance the EduWol experience.
+These projects represent a glimpse of the creative work done by me as Graphic Team Head. Each design aimed to communicate effectively and enhance the EduWol experience.
 
 Feel free to reach out for collaborations or further inquiries.
 
