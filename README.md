@@ -8,20 +8,21 @@ EduWol is an innovative platform at Chitkara University that focuses on fosterin
 
 ## Projects Overview
 
-### Project 1: Event Posters
-- **Description:** Designed event posters for various academic and cultural events hosted by EduWol.
-- **Image:** 
-  <img src="images/image1.png" alt="Event Poster" style="margin-bottom: 20px;" />
+### Project 1: Magazine Launch poster
+- **Description:** Designed poster for weekly and monthly magazine launch by EduWol.
+<img src="https://i.ibb.co/X3R2q1m/1.png" alt="Event Poster" width=300px style="margin-bottom: 20px;" />
 
-### Project 2: Social Media Graphics
-- **Description:** Created engaging social media graphics for EduWol's online campaigns and announcements.
-- **Image:** 
-  <img src="images/image2.png" alt="Social Media Graphic" style="margin-bottom: 20px;" />
+### Project 2: Course Launch poster
+- **Description:** Created engaging social media posts for EduWol's online python course.
+- <img src="https://i.ibb.co/X4pBQ1t/2.png" alt="Social Media Graphic" width=300px style="margin-bottom: 20px;" />
 
-### Project 3: Infographics
-- **Description:** Developed informative infographics for educational content and presentations.
-- **Image:** 
-  <img src="images/image3.png" alt="Infographic" style="margin-bottom: 20px;" />
+### Project 3: Goodies
+- **Description:** Designed wristbands as goodies for our event participants.
+- <img src="https://i.ibb.co/qgw4BZC/3.png" alt="Infographic" width=300px style="margin-bottom: 20px;" />
+
+### Project 4: Event poster
+- **Description:** Designed an event poster for the Weblast 3.0 Hackathon by EduWol.
+- <img src="https://i.ibb.co/hswS1cF/4.png" alt="Infographic" width=300px style="margin-bottom: 20px;" />
 
 ## Conclusion
 
