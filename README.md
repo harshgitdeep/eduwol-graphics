@@ -26,10 +26,16 @@ EduWol is an innovative platform at Chitkara University that focuses on fosterin
 - **Description:** Designed an event poster for the Weblast 3.0 Hackathon by EduWol.
 <img src="https://i.ibb.co/hswS1cF/4.png" alt="Infographic" width="300px" style="margin-bottom: 20px;" />
 
-## Conclusion
-
 These projects represent a glimpse of the creative work done by me as the Graphics Team Head. Each design aimed to communicate effectively and enhance the EduWol experience.
 
-Feel free to reach out for collaborations or further inquiries.
-
 Thank you for visiting!
+
+## "Highlights from Our Events"
+
+<div align="center">
+  <img src="https://i.ibb.co/D5PrBSr/20221006-110842.jpg" alt="Infographic" width="300px" style="margin-bottom: 20px; margin-right: 20px;" />
+  <img src="https://i.ibb.co/6bNkv5G/20221006-120624.jpg" width="300px" style="margin-bottom: 20px;" />
+  
+  <img src="https://i.ibb.co/vYZjNjN/20221006-120627.jpg" alt="Infographic" width="300px" style="margin-bottom: 20px; margin-right: 20px;" />
+  <img src="https://i.ibb.co/Jnhd4xP/20221006-142643.jpg" alt="Infographic" width="300px" style="margin-bottom: 20px;" />
+</div>
